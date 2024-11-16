@@ -1,7 +1,6 @@
 # CSAI2115
 Elements of AIML LAB
 
-
 LIST OF EXPERIMENTS 
 Experiment 1 Exploration of WEKA tool for Regression task.
 Experiment 2 Exploration of WEKA tool for Classification task.
